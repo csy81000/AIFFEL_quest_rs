@@ -30,6 +30,8 @@
 │   └── Quest08  
 │       ├── Quest08.ipynb  
 │       └── README.md
+│
+│  
 ├── GoingDeeper  
 │   ├── GD01  
 │   │   ├── GD01.ipynb  
@@ -54,7 +56,9 @@
 │   │   └── README.md  
 │   └── GD08  
 │       ├── GD08.ipynb  
-│       └── README.md  
+│       └── README.md
+│
+│  
 └── Exploration  
     ├── Ex01  
     │   ├── Ex01.ipynb  
