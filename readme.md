@@ -7,50 +7,75 @@
 ``` 
 ├── MainQuest  
 │   ├── Quest01  
-│   │   ├── .ipynb  
+│   │   ├── Quest01.ipynb  
 │   │   └── README.md  
 │   ├── Quest02  
-│   │   ├── .ipynb  
+│   │   ├── Quest02.ipynb  
 │   │   └── README.md  
 │   ├── Quest03  
-│   │   ├── .ipynb  
+│   │   ├── Quest03.ipynb  
 │   │   └── README.md  
 │   ├── Quest04  
-│   │   ├── .ipynb  
+│   │   ├── Quest04.ipynb  
 │   │   └── README.md  
 │   ├── Quest05  
-│   │   ├── .ipynb  
+│   │   ├── Quest05.ipynb  
 │   │   └── README.md  
 │   ├── Quest06  
-│   │   ├── .ipynb  
+│   │   ├── Quest06.ipynb  
 │   │   └── README.md  
 │   ├── Quest07  
-│   │   ├── .ipynb  
+│   │   ├── Quest07.ipynb  
 │   │   └── README.md  
 │   └── Quest08  
-│       ├── .ipynb  
+│       ├── Quest08.ipynb  
+│       └── README.md
+├── GoingDeeper  
+│   ├── GD01  
+│   │   ├── GD01.ipynb  
+│   │   └── README.md  
+│   ├── GD02  
+│   │   ├── GD02.ipynb  
+│   │   └── README.md  
+│   ├── GD03  
+│   │   ├── GD03.ipynb  
+│   │   └── README.md  
+│   ├── GD04  
+│   │   ├── GD04.ipynb  
+│   │   └── README.md  
+│   ├── GD05  
+│   │   ├── GD05.ipynb  
+│   │   └── README.md  
+│   ├── GD06  
+│   │   ├── GD06.ipynb  
+│   │   └── README.md  
+│   ├── GD07  
+│   │   ├── GD07.ipynb  
+│   │   └── README.md  
+│   └── GD08  
+│       ├── GD08.ipynb  
 │       └── README.md  
 └── Exploration  
     ├── Ex01  
-    │   ├── .ipynb  
+    │   ├── Ex01.ipynb  
     │   └── README.md  
     ├── Ex02  
-    │   ├── .ipynb  
+    │   ├── Ex02.ipynb  
     │   └── README.md  
     ├── Ex03  
-    │   ├── .ipynb  
+    │   ├── Ex03.ipynb  
     │   └── README.md  
     ├── Ex04  
-    │   ├── .ipynb  
+    │   ├── Ex04.ipynb  
     │   └── README.md  
     ├── Ex05  
-    │   ├── .ipynb  
+    │   ├── Ex05.ipynb  
     │   └── README.md  
     ├── Ex06  
-    │   ├── .ipynb  
+    │   ├── Ex06.ipynb  
     │   └── README.md  
     └── Ex07  
-        ├── .ipynb  
+        ├── Ex07.ipynb  
         └── README.md  
 ```
 
